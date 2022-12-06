@@ -1,0 +1,43 @@
+code_jongmok
+	cd	character7
+    nm	varchar 50
+    market	int
+    control	int
+    status	int
+		
+code_upjong
+	cd	character4
+	nm	varchar 50
+	market	int
+		
+codeuj
+	cdu	
+	cdj	
+		
+stock_jongmok
+	cd	
+	dt	
+	op	
+	hp	
+	lp	
+	cp	
+	vol	
+	tshare	
+	d0	
+	s0	
+		
+stock_jongmokmax
+	cd	
+	dt	
+	pm	
+	m0	
+		
+stock_upjong
+	cd	
+	dt	
+	op	
+	hp	
+	lp	
+	cp	
+	vol	
+	d0	
